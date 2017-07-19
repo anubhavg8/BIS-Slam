@@ -1,0 +1,223 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+footer {
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-top: 4%;
+
+}
+hr {
+    margin-top: 12px;
+}
+li{
+    cursor: pointer;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.heading{
+    color: white;
+    padding-bottom: 20px;
+}
+
+.custom_Nav{
+    background-color: #138EE4;
+    text-align: center;
+    height: 100px;
+}
+.header { 
+    color: white;
+    text-align: center;
+ }
+ .headerTitle1{
+    border: 2px solid black;
+    margin-bottom: 20px;
+    background-color: #016eba;
+    color: #fff;
+     font-family: 'Lato', sans-serif;
+
+ }
+
+ .margB{
+    margin-bottom:30px;
+ }
+.MainFooter{
+    background-color: #A8A8A8;
+}
+
+.TopBar{
+    border: black solid 1px;
+    height: 100px;
+}
+
+.img1 { 
+    box-shadow: none;
+    transition: box-shadow 1s;  
+
+ }
+ .img1:hover{
+    -webkit-box-shadow: 0px 0px 40px -11px rgba(104,204,240,1);
+    moz-box-shadow: 0px 0px 40px -11px rgba(104,204,240,1);
+    box-shadow: 0px 0px 40px -11px rgba(104,204,240,1);
+}
+blockquote {
+    font-style: italic;
+}
+.backgroundM{
+    background-color:#016eba; 
+    color: white;
+}
+.custom_img {
+    border-radius: 50%; 
+    border: 10px #fff solid;
+     }
+.img1 { 
+    box-shadow: none;
+    transition: box-shadow 1s;  
+
+ }
+ .img1:hover{
+    -webkit-box-shadow: 0px 0px 43px 10px rgba(74,183,255,1);
+    moz-box-shadow: 0px 0px 43px 10px rgba(74,183,255,1);
+    box-shadow: 0px 0px 43px 10px rgba(74,183,255,1);}
+a{
+    cursor: pointer;
+}
+
+.btn-top{
+    background-color: transparent;
+    border: 3px white solid;
+    transition: background-color 0.5s;    
+}
+.btn-top:hover { 
+    background-color: white;
+}
+footer{
+    background-color: #000;
+    color:white;
+}
+
+footer li{ 
+    color: black;
+ }
+.ender {
+    background-color: black;
+    color: white;
+}
+
+/*Codes for all the schools*/
+.BorderDiv{
+    border: 1px solid black;
+
+}
+
+
+
+
+
+/* Different kinds of fonts here */
+
+.PoetryHeading {
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+.Heading2{
+    font-family: 'Lato', sans-serif;
+    font-size: 36px;
+}
+
+.headings{
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+#block1{
+    display: none;
+
+}
+#block2 { 
+    display : none;
+}
+#block3 { 
+    display : none;
+}
+#block4 { 
+    display : none;
+}
+#block5 { 
+    display : none;
+}
+#block6 { 
+    display : none;
+}
+#block7 { 
+    display : none;
+}
+
+#block8 { 
+    display : none;
+}
+#block9 { 
+    display : none;
+}
+#block10 { 
+    display : none;
+}
+#block11 { 
+    display : none;
+}
+#block12 { 
+    display : none;
+}
+#block13 { 
+    display : none;
+}
+i{
+    cursor: pointer;
+}
+
+h3{
+    padding: 0px;
+    margin: 0px;
+    font-size: 30px
+}
+
+.Sarah{
+    padding: 5px; 
+    display: table;
+    position: relative;
+    background: url(../imgs/Sarah_Kay.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;  
+}
+.Phil{
+    padding: 5px; 
+    display: table;
+    position: relative;
+    background: url(../imgs/Phil_Kaye.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;      
+}
+
+.SandP{
+    background-color:white; 
+    padding: 1px;
+    opacity: 0.9;
+    margin-top: 50%;
+}
